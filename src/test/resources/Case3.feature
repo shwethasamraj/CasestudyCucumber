@@ -10,4 +10,4 @@ Then verify Search
 Examples:
 
 |uname|pass|
-|shwesam|password123|
+|lalitha|password123|
