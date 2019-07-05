@@ -22,4 +22,4 @@ Examples:
 
 |username|firstname|lastname|password|confirmpassword|email|mob|dob|address|sec_ques|sec_ans|
 |sumathi|sumathi|samraj|sumi1234|sumi1234|sumisam09@gmail.com|8939419716|19-07-1997|chennai,Mylapore|what is your favour color?|black|
-|shwesam|lalitha|abc|abc123|abc123|abc@gmail.com|8457854557|01-01-2010|chennai, Perungalathur|what is your favour color?|white|
+|lalitha|lalitha|abc|abc123|abc123|abc@gmail.com|8457854557|01-01-2010|chennai, Perungalathur|what is your favour color?|white|
