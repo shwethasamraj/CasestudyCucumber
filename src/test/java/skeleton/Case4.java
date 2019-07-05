@@ -19,7 +19,7 @@ public class Case4 {
 public void user_open_login_page_of_Testme_app() {
 	 System.out.println("user opened the application");
 	  
-	  	System.setProperty("webdriver.chrome.driver","C:\\Users\\shwetha.samraj\\Downloads\\chromedriver_win32\\chromedriver.exe");
+	  	System.setProperty("webdriver.chrome.driver","C:\\driver\\chromedriver_win32\\chromedriver.exe");
 		driver= new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://10.232.237.143:443/TestMeApp");
