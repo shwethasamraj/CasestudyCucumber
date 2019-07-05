@@ -10,7 +10,7 @@ Then verify login success
 Examples:
 
 |uname|pass|
-|shwesam|password123|
+|lalitha|password123|
 |shwe|shwe123|
 
 
