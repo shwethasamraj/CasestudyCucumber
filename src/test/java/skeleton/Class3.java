@@ -16,7 +16,7 @@ public class Class3 {
 	WebDriver driver;
 	@Given("user opens the login page in TestMe App")
 	public void user_opens_the_login_page_in_TestMe_App() {
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\shwetha.samraj\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\driver\\chromedriver_win32\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://10.232.237.143:443/TestMeApp/");
