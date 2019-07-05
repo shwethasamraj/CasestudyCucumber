@@ -12,4 +12,4 @@ Then Testme app doesn't display the cart icon
 
 Examples:
 |username|password|
-|shwesam|password123|
+|lalitha|password123|
